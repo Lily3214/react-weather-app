@@ -8,33 +8,20 @@ Display weather forecast data for anywhere around the world using city names.
 
 # Features
 <li>
-SignUp and Login using Firebase
+Display current forecast data for a given location.
   </li>
   <li>
-Add and remove products from the shopping cart
+Search cities worldwide.
   </li>
   <li>
-Filter products by categories
+Responsive design.
   </li>
-  <li>
-Product details and Product reviews page
-  </li>
-  <li>
-Checkout and Billing information form
-  </li>
-  <li>
-Fully responsive design
-  </li>
-  
   
 # Built with
   <li>
 ReactJs
   </li>
   <li>
-Redux Toolkit
-  </li>
-  <li>
-Firebase
+OpenWeatherMap API
   </li>
 

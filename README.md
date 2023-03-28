@@ -14,7 +14,10 @@ Display current forecast data for a given location.
 Search cities worldwide.
   </li>
   <li>
-Responsive design.
+Fully Responsive design.
+  </li>
+  <li>
+Modern UI/UX design
   </li>
   
 # Built with

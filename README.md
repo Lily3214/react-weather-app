@@ -1,5 +1,5 @@
 # Weather App
-React responsive Ecommerce website made from scratch based on the lessons I learned from the React course. This website contains a Home page, Shop page, Product details page, Cart page, Sign in and Signup page, Checkout page.
+Display weather forecast data for anywhere around the world using city names.
 
 ### Live Demo: <a href="https://lily3214.github.io/react-weather-app/" target="_blank" rel="nofollow">Weather App</a>
 

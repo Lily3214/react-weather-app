@@ -8,16 +8,16 @@ Display weather forecast data for anywhere around the world using city names.
 
 # Features
 <li>
-Display current forecast data for a given location
+Display Current Forecast Data For The Given Location
   </li>
   <li>
-Search cities worldwide
+Search Cities Worldwide
   </li>
   <li>
-Fully Responsive design
+Fully Responsive Design
   </li>
   <li>
-Modern UI/UX design
+Modern UI/UX Design
   </li>
   
 # Built with

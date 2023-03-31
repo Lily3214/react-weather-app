@@ -1,5 +1,5 @@
 # Weather App
-Display weather forecast data anywhere worldwide by searching for city names.
+Display weather forecast data anywhere worldwide by searching for city names built with React, OpenWeatherMap API, modern UI/UX Design, and a fully responsive web, app.
 
 ### Live Demo: <a href="https://lily3214.github.io/react-weather-app/" target="_blank" rel="nofollow">Weather App</a>
 
@@ -12,12 +12,6 @@ Display Current Forecast Data For The Given Location
   </li>
   <li>
 Search Cities Worldwide
-  </li>
-  <li>
-Fully Responsive Web, App
-  </li>
-  <li>
-Modern UI/UX Design
   </li>
   
 # Built with

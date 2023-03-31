@@ -1,5 +1,5 @@
 # Weather App
-Display weather forecast data for anywhere around the world using city names.
+Display weather forecast data anywhere worldwide by searching for city names.
 
 ### Live Demo: <a href="https://lily3214.github.io/react-weather-app/" target="_blank" rel="nofollow">Weather App</a>
 

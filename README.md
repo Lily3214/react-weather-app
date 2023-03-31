@@ -14,7 +14,7 @@ Display Current Forecast Data For The Given Location
 Search Cities Worldwide
   </li>
   <li>
-Fully Responsive Design
+Fully Responsive Web, App
   </li>
   <li>
 Modern UI/UX Design
